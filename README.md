@@ -1,7 +1,7 @@
 # 👋 Halo, Saya Boy Harendy Simamora!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Information+Systems+Student;Backend+Developer;Data+Analyst+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Information+Systems+Student;Boy+Harendy+Simamora;Institut+Teknologi+Del" alt="Typing SVG" />
 </p>
 
 ---
@@ -68,19 +68,17 @@ Saya adalah mahasiswa **Sistem Informasi** di **Institut Teknologi Del**. Saya m
 
 ### 📊 Statistik GitHub
 
-*(Catatan: Ganti tulisan `USERNAME_ANDA` di bawah ini dengan username GitHub asli Anda agar statistiknya muncul)*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=visual_studio_dark&locale=id" alt="Statistik GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=boyharendy&show_icons=true&theme=visual_studio_dark&locale=id" alt="Statistik GitHub" height="150" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=visual_studio_dark&locale=id" alt="Bahasa Terbanyak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boyharendy&layout=compact&theme=visual_studio_dark&locale=id" alt="Bahasa Terbanyak" height="150" />
 </p>
 
 ---
 
 ### 📫 Mari Terhubung!
-- **LinkedIn:** [linkedin.com/in/username-anda](https://linkedin.com/in/username-anda)
-- **Email:** [email.anda@domain.com](mailto:email.anda@domain.com)
+- **Email:** [boyharendy321@gmail.com](mailto:boyharendy321@gmail.com)
 
 ---
-<p align="center"><i>"Take pictures today for story tomorrow" 🚀</i></p>
+<p align="center"><i>"Terimakasih Telah Mengunjungi Profil Saya" 🚀</i></p>
