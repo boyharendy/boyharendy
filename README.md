@@ -72,7 +72,9 @@ Saya adalah mahasiswa **Sistem Informasi** di **Institut Teknologi Del**. Saya m
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=boyharendy&show_icons=true&theme=visual_studio_dark&locale=id" alt="Statistik GitHub" height="150" />
   &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boyharendy&layout=compact&theme=visual_studio_dark&locale=id" alt="Bahasa Terbanyak" height="150" />
 </p>
+
 
 ---
 
