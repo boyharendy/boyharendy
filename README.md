@@ -10,7 +10,7 @@
 Saya adalah mahasiswa **Sistem Informasi** di **Institut Teknologi Del**. Saya memiliki ketertarikan mendalam dalam pengembangan *backend*, analisis data, serta arsitektur sistem web modern. Saya senang membangun solusi digital yang efisien, mengolah data untuk menghasilkan wawasan strategis, dan terus mengeksplorasi teknologi baru.
 
 - 🎓 **Edukasi:** S1 Sistem Informasi - Institut Teknologi Del
-- 💼 **Fokus Saat Ini:** Memperdalam *Vibe Coding*, *Frontend Development*, *Backend Development*, *Data Analytics*, serta optimasi performa aplikasi web.
+- 💼 **Fokus Saat Ini:**  *Frontend Development*, *Backend Development*, *Data Analytics*, serta optimasi performa aplikasi web.
 - 🛠️ **Eksplorasi Lain:** UI/UX Design, Pemodelan Proses Bisnis, dan Manajemen Proyek Digital.
 
 ---
